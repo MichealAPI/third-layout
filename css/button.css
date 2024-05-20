@@ -1,0 +1,28 @@
+
+.main .button a:link,
+.main .button a:visited,
+.main .button a:hover,
+.main .button a:active {
+    text-decoration: none;
+}
+
+.main .button {
+    border-top: 3px solid #FFF;
+    padding-top: 45px;
+
+    margin-top: 58px;
+}
+
+.main .button a {
+    padding: 15px 125px 11px 125px;
+    background-color: #FFF;
+    border-radius: 15px;
+
+    color: #080C71;
+    text-align: center;
+    font-size: 30px;
+    line-height: normal;
+}
+
+
+

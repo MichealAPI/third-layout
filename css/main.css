@@ -1,0 +1,35 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    flex-grow: 1;
+}
+
+.main .title {
+    border-top: 3px solid #343434;
+    border-bottom: 3px solid #343434;
+
+    padding: 18px 0 18px 0;
+}
+
+.main .title h1 {
+    color: #FFF;
+    text-align: center;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.main .subtitle {
+    margin-top: 51px;
+}
+
+.main .subtitle p {
+    color: #FFF;
+    text-align: center;
+    font-size: 30px;
+    font-style: normal;
+    line-height: normal;
+}
