@@ -25,6 +25,11 @@
     margin-top: 51px;
 }
 
+
+.main .subtitle p {
+    margin-bottom: -1%; /* Is this a consistent solution? */
+}
+
 .main .subtitle p {
     color: #FFF;
     text-align: center;
