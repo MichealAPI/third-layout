@@ -25,6 +25,11 @@
 
 }
 
+.menu li .nav-link a {
+    color: #fff;
+    text-decoration: none;
+}
+
 .menu::before {
 
     position: absolute;
